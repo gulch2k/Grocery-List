@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: #3CCCA5;
+}
+
+.header {
+    border: 10px solid #8a795d;
+    background-color: #c0c0c0;
+    width: 25em;
+    text-align: center;
+}
+
+.List {
+    width: 25em;
+    color:white;
+    border: 10px solid red;
+    background-color: wheat;
+}
+
+body {
+    background-image: url("https://49.media.tumblr.com/76c038178aedce0c2a21210241878f2a/tumblr_o6h5izXQ4E1ue9j4wo1_540.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    background-color: silver;
+    padding: 10px;
+    row-gap: 1em;
+
+}
